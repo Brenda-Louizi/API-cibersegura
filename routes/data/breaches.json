@@ -1,0 +1,18 @@
+[
+    {
+      "empresa": "Facebook",
+      "data": "2021-04-03",
+      "dadosVazados": "Nomes, e-mails, números de telefone"
+    },
+    {
+      "empresa": "LinkedIn",
+      "data": "2021-06-22",
+      "dadosVazados": "Informações públicas de perfis"
+    },
+    {
+      "empresa": "Yahoo",
+      "data": "2013-08-01",
+      "dadosVazados": "Senhas criptografadas, e-mails"
+    }
+  ]
+  

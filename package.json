@@ -1,0 +1,16 @@
+{
+    "name": "api-cibersegura",
+    "version": "1.0.0",
+    "description": "API utilitária com foco em cibersegurança",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Brenda Louise",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
